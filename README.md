@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi — I'm Derek 👋
 
-<!--
-**DereKk8/DereKk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Sistemas Engineering student focused on Backend & MLOps. I build scalable machine learning pipelines and developer tooling, As well as connecting freshly baked LLM's to Web apps.
 
-Here are some ideas to get you started:
+🔭 Working on: **Im Currently Finishing by BS degree! In Systems eenginering**  
+🌱 Learning: large-scale data processing and MLOps and Cloud Computing   
+💬 Ask me about: CI/CD, Docker, Kubernetes, Python  
+📫 Contact: [dereksarmiento@javeriana.edu.co](mailto:dereksarmiento@javeriana.edu.co)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured projects
+- **Project A** — one-line summary. Demo: https://demo.example.com • ⭐ Stars
+- **Project B** — one-line summary. Demo: https://demo.example.com • ⭐ Stars
+- **Project C** — small utility or library.
+
+## Quick links 
+- Personal Page: [WebSite](https://dereksarmientoloeber.netlify.app/)
+- LinkedIn: [https://www.linkedin.com/in/derek-sarmiento](https://www.linkedin.com/in/derek-sarmiento-7a90a8271/)
+
+<!-- Optional: small activity cards, badges, or automated stats here -->
